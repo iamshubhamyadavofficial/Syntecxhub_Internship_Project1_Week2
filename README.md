@@ -1,0 +1,2 @@
+# Syntecxhub_Internship_Project2_Week2
+Syntecxhub Internship Project2 Task2
