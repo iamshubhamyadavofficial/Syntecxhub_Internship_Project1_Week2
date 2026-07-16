@@ -1,5 +1,5 @@
-# Syntecxhub_Internship_Project2_Week2
-Syntecxhub Internship Project2 Task2
+# Syntecxhub_Internship_Project1_Week2
+Syntecxhub Internship Project1 Task2
 
 We have answered these 5 questions through our data analysis mainly using pandas and matplotlib library.
 
